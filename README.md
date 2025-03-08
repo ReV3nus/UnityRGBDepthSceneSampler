@@ -1,6 +1,8 @@
 # Unity RGB and Depth Scene Sampler
 This repository contains some utils to sample RGB and Depth images of custom scenes with editable methods. You can use it to sample your own custom virtual scenes to get datasets for training, such as 3DGS.
 
+To use this, you can use `git clone https://github.com/ReV3nus/UnityRGBDepthSceneSampler.git` and move all the files to your own unity projects.
+
 Currently supported for Built-in Render Pipeline(BiRP) and High Defination Render Pipeline(HDRP).
 
 # How to use in BiRP 
